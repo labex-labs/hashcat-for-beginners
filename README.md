@@ -16,17 +16,17 @@ In this course, learn the fundamentals of using Hashcat, a powerful password cra
 
 ## Exercises
 
-|   Index | Name                                            | Difficulty   | Practice                                                                                                                  |
-|---------|-------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 🆓 Hashcat Installation and System Benchmark | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-hashcat-installation-and-system-benchmark-632570'>Start Lab</a> |
-|       2 | 📖 🆓 Hashcat Hashing Fundamentals              | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-hashcat-hashing-fundamentals-632569'>Start Lab</a>              |
-|       3 | 📖 🆓 Hashcat Dictionary Attacks                | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-hashcat-dictionary-attacks-632568'>Start Lab</a>                |
-|       4 | 📖 🆓 Hashcat Brute-Force with Mask Attacks     | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-hashcat-brute-force-with-mask-attacks-632567'>Start Lab</a>     |
-|       5 | 📖 🆓 Hashcat Potfiles and Output Files         | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-hashcat-potfiles-and-output-files-632571'>Start Lab</a>         |
+|   Index | Name                                            | Difficulty   | Practice                                                                                                                                          |
+|---------|-------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+|       1 | 🧩 🆓 Hashcat Installation and System Benchmark | Beginner     | <a target='_blank' href='https://labex.io/labs/linux-hashcat-installation-and-system-benchmark-632570?course=hashcat-for-beginners'>Start Lab</a> |
+|       2 | 🧩 🆓 Hashcat Hashing Fundamentals              | Beginner     | <a target='_blank' href='https://labex.io/labs/linux-hashcat-hashing-fundamentals-632569?course=hashcat-for-beginners'>Start Lab</a>              |
+|       3 | 🧩 🆓 Hashcat Dictionary Attacks                | Beginner     | <a target='_blank' href='https://labex.io/labs/linux-hashcat-dictionary-attacks-632568?course=hashcat-for-beginners'>Start Lab</a>                |
+|       4 | 🧩 🆓 Hashcat Brute-Force with Mask Attacks     | Beginner     | <a target='_blank' href='https://labex.io/labs/linux-hashcat-brute-force-with-mask-attacks-632567?course=hashcat-for-beginners'>Start Lab</a>     |
+|       5 | 🧩 🆓 Hashcat Potfiles and Output Files         | Beginner     | <a target='_blank' href='https://labex.io/labs/linux-hashcat-potfiles-and-output-files-632571?course=hashcat-for-beginners'>Start Lab</a>         |
 
 ## About LabEx
 
-LabEx is an interactive, hands-on learning platform dedicated to coding and technology. It combines labs, AI assistance, and virtual machines to provide a no-video, practical learning experience. With a strict 'Learn by Doing' approach, interactive online environments in the browser with automated step-by-step checks, structured content organization through the Skill Tree learning system, and a growing resource of 30 Skill Trees and over 6,000 Labs, LabEx offers comprehensive practical education. The platform includes Labby, an AI learning assistant built on latest AI models, providing a conversational learning experience.
+[LabEx](https://labex.io) is an interactive, hands-on learning platform dedicated to coding and technology. It combines labs, AI assistance, and virtual machines to provide a no-video, practical learning experience. With a strict 'Learn by Doing' approach, interactive online environments in the browser with automated step-by-step checks, structured content organization through the [Skill Tree](https://labex.io/learn) learning system, and a growing resource of 30 Skill Trees and over 6,000 Labs, [LabEx](https://labex.io) offers comprehensive practical education. The platform includes Labby, an AI learning assistant built on latest AI models, providing a conversational learning experience.
 
 ## More
 
