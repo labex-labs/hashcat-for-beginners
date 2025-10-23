@@ -16,17 +16,17 @@
 
 ## 演習
 
-|   インデックス | 名前                                                       | 難易度   | 練習                                                                                                                          |
-|----------------|------------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------|
-|              1 | 📖 🆓 Hashcat のインストールとシステムベンチマーク         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-hashcat-installation-and-system-benchmark-632570'>ラボを開始</a> |
-|              2 | 📖 🆓 Hashcat ハッシュの基礎                               | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-hashcat-hashing-fundamentals-632569'>ラボを開始</a>              |
-|              3 | 📖 🆓 Hashcat 辞書攻撃                                     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-hashcat-dictionary-attacks-632568'>ラボを開始</a>                |
-|              4 | 📖 🆓 Hashcat マスク攻撃による総当たり（ブルートフォース） | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-hashcat-brute-force-with-mask-attacks-632567'>ラボを開始</a>     |
-|              5 | 📖 🆓 Hashcat Pot ファイルと出力ファイル                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-hashcat-potfiles-and-output-files-632571'>ラボを開始</a>         |
+|   インデックス | 名前                                                       | 難易度   | 練習                                                                                                                                                  |
+|----------------|------------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+|              1 | 🧩 🆓 Hashcat のインストールとシステムベンチマーク         | 初級     | <a target='_blank' href='https://labex.io/ja/labs/linux-hashcat-installation-and-system-benchmark-632570?course=hashcat-for-beginners'>ラボを開始</a> |
+|              2 | 🧩 🆓 Hashcat ハッシュの基礎                               | 初級     | <a target='_blank' href='https://labex.io/ja/labs/linux-hashcat-hashing-fundamentals-632569?course=hashcat-for-beginners'>ラボを開始</a>              |
+|              3 | 🧩 🆓 Hashcat 辞書攻撃                                     | 初級     | <a target='_blank' href='https://labex.io/ja/labs/linux-hashcat-dictionary-attacks-632568?course=hashcat-for-beginners'>ラボを開始</a>                |
+|              4 | 🧩 🆓 Hashcat マスク攻撃による総当たり（ブルートフォース） | 初級     | <a target='_blank' href='https://labex.io/ja/labs/linux-hashcat-brute-force-with-mask-attacks-632567?course=hashcat-for-beginners'>ラボを開始</a>     |
+|              5 | 🧩 🆓 Hashcat Pot ファイルと出力ファイル                   | 初級     | <a target='_blank' href='https://labex.io/ja/labs/linux-hashcat-potfiles-and-output-files-632571?course=hashcat-for-beginners'>ラボを開始</a>         |
 
 ## LabEx について
 
-LabEx は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ、ブラウザ内のインタラクティブなオンライン環境で自動化されたステップバイステップのチェック機能、スキルツリーベースのシステムによる構造化されたコンテンツ組織、30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソースにより、LabEx は包括的な実践教育を提供します。プラットフォームには、最新の AI モデルを基盤とした学習アシスタント Labby が含まれており、対話型学習体験を提供します。
+[LabEx](https://labex.io) は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ、ブラウザ内のインタラクティブなオンライン環境で自動化されたステップバイステップのチェック機能、スキルツリーベースのシステムによる構造化されたコンテンツ組織、30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソースにより、[LabEx](https://labex.io) は包括的な実践教育を提供します。プラットフォームには、最新の AI モデルを基盤とした学習アシスタント Labby が含まれており、対話型学習体験を提供します。
 
 ## その他
 
