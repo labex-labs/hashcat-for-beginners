@@ -16,17 +16,17 @@ In diesem Kurs lernen Sie die Grundlagen der Verwendung von Hashcat, einem leist
 
 ## Übungen
 
-|   Index | Name                                            | Schwierigkeit   | Übung                                                                                                                            |
-|---------|-------------------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 🆓 Hashcat Installation und System-Benchmark | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-hashcat-installation-and-system-benchmark-632570'>Labor Starten</a> |
-|       2 | 📖 🆓 Hashcat Grundlagen des Hashings           | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-hashcat-hashing-fundamentals-632569'>Labor Starten</a>              |
-|       3 | 📖 🆓 Hashcat Wörterbuchangriffe                | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-hashcat-dictionary-attacks-632568'>Labor Starten</a>                |
-|       4 | 📖 🆓 Hashcat Brute-Force mit Maskenangriffen   | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-hashcat-brute-force-with-mask-attacks-632567'>Labor Starten</a>     |
-|       5 | 📖 🆓 Hashcat Potfiles und Ausgabedateien       | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-hashcat-potfiles-and-output-files-632571'>Labor Starten</a>         |
+|   Index | Name                                            | Schwierigkeit   | Übung                                                                                                                                                    |
+|---------|-------------------------------------------------|-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       1 | 🧩 🆓 Hashcat Installation und System-Benchmark | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/linux-hashcat-installation-and-system-benchmark-632570?course=hashcat-for-beginners'>Labor Starten</a> |
+|       2 | 🧩 🆓 Hashcat Grundlagen des Hashings           | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/linux-hashcat-hashing-fundamentals-632569?course=hashcat-for-beginners'>Labor Starten</a>              |
+|       3 | 🧩 🆓 Hashcat Wörterbuchangriffe                | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/linux-hashcat-dictionary-attacks-632568?course=hashcat-for-beginners'>Labor Starten</a>                |
+|       4 | 🧩 🆓 Hashcat Brute-Force mit Maskenangriffen   | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/linux-hashcat-brute-force-with-mask-attacks-632567?course=hashcat-for-beginners'>Labor Starten</a>     |
+|       5 | 🧩 🆓 Hashcat Potfiles und Ausgabedateien       | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/linux-hashcat-potfiles-and-output-files-632571?course=hashcat-for-beginners'>Labor Starten</a>         |
 
 ## Über LabEx
 
-LabEx ist eine interaktive, praktische Lernplattform für Programmierung und Technologie. Sie kombiniert Labore, KI-Unterstützung und virtuelle Maschinen für eine videofreie, praktische Lernerfahrung. Mit einem strikten 'Learning by Doing'-Ansatz, interaktiven Online-Umgebungen im Browser mit automatisierten Schritt-für-Schritt-Überprüfungen, strukturierter Inhaltsorganisation mit dem Skill-Tree-basierten System, und einer wachsenden Lernressource von 30 Skill Trees und über 6.000 Laboren, bietet LabEx umfassende praktische Bildung. Die Plattform umfasst den Lernassistenten Labby, aufgebaut auf den neuesten KI-Modellen, der eine konversationelle Lernerfahrung bietet.
+[LabEx](https://labex.io) ist eine interaktive, praktische Lernplattform für Programmierung und Technologie. Sie kombiniert Labore, KI-Unterstützung und virtuelle Maschinen für eine videofreie, praktische Lernerfahrung. Mit einem strikten 'Learning by Doing'-Ansatz, interaktiven Online-Umgebungen im Browser mit automatisierten Schritt-für-Schritt-Überprüfungen, strukturierter Inhaltsorganisation mit dem Skill-Tree-basierten System, und einer wachsenden Lernressource von 30 Skill Trees und über 6.000 Laboren, [LabEx](https://labex.io) bietet umfassende praktische Bildung. Die Plattform umfasst den Lernassistenten Labby, aufgebaut auf den neuesten KI-Modellen, der eine konversationelle Lernerfahrung bietet.
 
 ## Mehr
 
